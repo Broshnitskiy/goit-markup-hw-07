@@ -1,0 +1,19 @@
+.logo {
+    color: var(--style-color);
+    font-family: var(--another-font);
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    animation-duration: 1500ms;
+
+    &__text-hat {
+        color: var(--logo-color);
+    }
+
+    &__text-footer {
+        color: var(--page-color);
+    }
+
+}
+
+
